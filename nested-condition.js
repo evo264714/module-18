@@ -16,4 +16,6 @@ if(math == true){
     }
 
 }
-else
+else{
+    console.log()
+}
